@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proyecto_Fragmentos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="editado">Contacto editado</string>
+    <string name="vacio">Te dejaste el nombre y/o el telefono vacio(s)!</string>
+    <string name="edCabecera">Modificar contacto</string>
+    <string name="edNombre">Nombre: </string>
+    <string name="edTlf">Telefono: </string>
+    <string name="edTlfExtra">Otros telefonos: </string>
+    <string name="btConfirm">Guardar</string>
+    <string name="Mensaje">Solo acepto OnFragmentoInteraccionListener</string>
+
+</resources>
